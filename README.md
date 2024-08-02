@@ -1,2 +1,2 @@
 # Recipe-page
-Task on recipe page
+Recipe page layout using HTML and CSS
